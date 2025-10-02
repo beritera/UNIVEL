@@ -1,0 +1,5 @@
+faltou a imagem na pasta e faltou uma pasta na pasta resources
+
+verifique as tuas pastas pois nao está na ordem correta, deve seguir a mesma ordem do 1bimestre
+
+Duvidas na aula 1 do 1o bimestre tem como deve ficar as pastas
