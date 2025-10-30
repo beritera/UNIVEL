@@ -16,10 +16,10 @@ public class Usuario {
     public void setLogin(String login) { this.login = login; }
 
     public String getSenha() { return senha; }
-    public void getSenha(String senha) { this.senha = senha; }
+    public void setSenha(String senha) { this.senha = senha; }
 
     public String getDataCriacao() { return dataCriacao; }
-    public void getdataCriacao(String dataCriacao) { this.dataCriacao = dataCriacao; }
+    public void setDataCriacao(String dataCriacao) { this.dataCriacao = dataCriacao; }
 
     public String getTipo() { return tipo; }
     public void setTipo(String tipo) { this.tipo = tipo; }
